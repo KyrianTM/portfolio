@@ -1,0 +1,12 @@
+img{
+    max-width: 250px;
+}
+*{
+    font-size: 0.9rem;
+}
+bold{
+    font-weight: bold;
+}
+.card{
+    max-width: 29rem;
+}
