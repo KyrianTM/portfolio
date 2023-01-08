@@ -1,0 +1,55 @@
+html{
+    background: rgb(255,227,0);
+    background: linear-gradient(90deg, rgba(255,227,0,1) 0%, rgba(255,158,0,1) 61%, rgba(255,90,0,1) 100%);
+}
+
+body,header,nav,nav ul li,main,footer{
+    border: 2px solid black;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+nav ul li{
+    display: inline-block;
+    margin: 0px 1rem;
+}
+nav ul li a{
+    padding: 8px;
+    display: block;
+    color: darkblue;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    background-color: grey;
+}
+embed{
+    margin: 20px 50px;
+}
+main ul li{
+    margin: 20px;
+}
+main ul li a{
+    text-decoration: none;
+}
+header ul li{
+    display: inline-block;
+    margin: 0px 5rem;
+}
+header ul{
+    float: right;
+}
+table{
+    align-self: center;
+}
+td{
+    padding-left: 3rem;
+}
+h1{
+    margin-left: 40rem;
+}
+main img{
+    max-width: 50px;
+}
+.first{
+border-right: 2px solid black;
+}
